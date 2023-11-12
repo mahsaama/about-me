@@ -14,7 +14,7 @@
 
 .housingTheme1{
   font-family: "Open Sans", sans-serif;
-  color: var(--darklightwhite);
+  color: var(--white);
   position: relative;
   background: transparent;
 }
@@ -33,7 +33,7 @@
 
 .housingTheme2{
   font-family: "Open Sans", sans-serif;
-  color: var(--graygradient);
+  color: var(--white);
   position: relative;
   background: transparent;
 }
