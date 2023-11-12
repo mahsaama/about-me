@@ -27,7 +27,7 @@
 
 .housingTheme1{
   font-family: "Open Sans", sans-serif;
-  color: var(--white);
+  /* color: var(--white); */
   position: relative;
   background: transparent;
 }
@@ -49,7 +49,7 @@
 
 .housingTheme2{
   font-family: "Open Sans", sans-serif;
-  color: var(--white);
+  /* color: var(--white); */
   position: relative;
   background: transparent;
 }
@@ -58,6 +58,7 @@
   content: "";
   position: fixed;
   background-color: rgba(255, 255, 255, 0.816);
+  /* background:  url("../../assets/img/bgmahsalight.jpg") top right no-repeat; */
   /* background-size: cover; */
   left: 0;
   right: 0;
