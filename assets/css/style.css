@@ -36,6 +36,7 @@
 
   content: "";
   position: fixed;
+  background-color: #444444;
   /* background:  url("../../assets/img/bgmahsa.jpg") top right no-repeat; */
   /* background-size: cover; */
   left: 0;
@@ -56,6 +57,7 @@
 .housingTheme2::before{
   content: "";
   position: fixed;
+  background-color: #444444;
   /* background:  url("../../assets/img/bgmahsalight.jpg") top right no-repeat; */
   /* background-size: cover; */
   left: 0;
