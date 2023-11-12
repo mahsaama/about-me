@@ -36,7 +36,7 @@
 
   content: "";
   position: fixed;
-  background:  top right no-repeat;
+  background:  url("../../assets/img/bgmahsa.jpg") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
@@ -56,7 +56,7 @@
 .housingTheme2::before{
   content: "";
   position: fixed;
-  background:  top right no-repeat;
+  background:  url("../../assets/img/bgmahsalight.jpg") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
