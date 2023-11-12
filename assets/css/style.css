@@ -2,43 +2,27 @@
 :root {
   --primarybirght: #ebb60a;
   --primarylight: #ebb60a;
-
   --white: #ffffff;
-
-
   --graygradient: rgba(255, 255, 255, 0.816);
-
-  
   --darklightwhite: rgba(1, 1, 1, 0.72);
-
   --bodypanel: rgba(1, 1, 1, 0.344);
-
-  
   --lightwhite: rgba(255, 255, 255, 0.08);
-
-
   --panels: #444444;
-
-  /* --bgpic : url("../../assets/img/bgmahsa.jpg"); */
-
 }
 
 
 
 .housingTheme1{
   font-family: "Open Sans", sans-serif;
-  /* color: var(--white); */
+  color: var(--darklightwhite);
   position: relative;
   background: transparent;
 }
 
 .housingTheme1::before{
-
   content: "";
   position: fixed;
-  background-color: rgba(55, 55, 55, 0.816);
-  /* background:  url("../../assets/img/bgmahsa.jpg") top right no-repeat; */
-  /* background-size: cover; */
+  background-color: rgba(1, 1, 1, 0.72);
   left: 0;
   right: 0;
   top: 0;
@@ -49,7 +33,7 @@
 
 .housingTheme2{
   font-family: "Open Sans", sans-serif;
-  /* color: var(--white); */
+  color: var(--graygradient);
   position: relative;
   background: transparent;
 }
@@ -57,9 +41,7 @@
 .housingTheme2::before{
   content: "";
   position: fixed;
-  background-color: rgba(255, 255, 255, 0.816);
-  /* background:  url("../../assets/img/bgmahsalight.jpg") top right no-repeat; */
-  /* background-size: cover; */
+  /* background-color: rgba(255, 255, 255, 0.816); */
   left: 0;
   right: 0;
   top: 0;
