@@ -22,7 +22,7 @@
 .housingTheme1::before{
   content: "";
   position: fixed;
-  background-color: rgba(183, 13, 13, 0.72);
+  background-color: rgba(1, 1, 1, 0.344);
   left: 0;
   right: 0;
   top: 0;
